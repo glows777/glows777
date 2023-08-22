@@ -18,7 +18,7 @@
 --- 
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+it's+Liam+Wang+here" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=635&lines=Hello%2C+it's+Liam+Wang+here" alt="Typing SVG" /></a>
 </p>
 
 - 👋 Hi, I’m @glows777，a university student from China.
