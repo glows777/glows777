@@ -1,6 +1,6 @@
 <p style="display:flex;justify-content:space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=glows777&show_icons=true&theme=dracula" style="width:45%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=glows777&show_icons=true&locale=en&layout=compact&theme=dracula" style="width:45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=glows777&show_icons=true&theme=dracula" style="width:49%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=glows777&show_icons=true&locale=en&layout=compact&theme=dracula" style="width:49%" />
 </p>
 <h2 align="center">Technology Stack</h2>
 <p align="center">
@@ -13,6 +13,12 @@
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glows777&layout=compact&theme=dracula" />
+</p>
+
+--- 
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+it's+Liam+Wang+here" alt="Typing SVG" /></a>
 </p>
 
 - 👋 Hi, I’m @glows777，a university student from China.
