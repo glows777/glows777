@@ -1,6 +1,6 @@
 <p style="display:flex">
-  <img src="https://github-readme-stats.vercel.app/api?username=glows777&show_icons=true&theme=dracula&line_height=25" style="width:49%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=glows777&show_icons=true&locale=en&layout=compact&theme=dracula&line_height=0" style="width:49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=glows777&show_icons=true&theme=dracula&line_height=20" style="width:45%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=glows777&show_icons=true&locale=en&layout=compact&theme=dracula&line_height=0" style="width:45%" />
 </p>
 <h2 align="center">Technology Stack</h2>
 <p align="center">
@@ -10,8 +10,8 @@
 <img style="height: 30px" src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
 <img style="height: 30px" src="https://img.shields.io/badge/-Vuejs-black?style=flat-square&logo=vue.js" />
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glows777&layout=compact&theme=dracula)(https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glows777&layout=compact)(https://github.com/anuraghazra/github-readme-stats)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=glows777&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 - 👋 Hi, I’m @glows777，a university student from China.
 - 👀 I’m interested in Java & front end
 - 🌱 I’m currently learning frontend
