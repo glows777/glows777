@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=glows777&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=glows777&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 - 👋 Hi, I’m @glows777，a university student from China.
 - 👀 I’m interested in Java & front end
 - 🌱 I’m currently learning frontend
