@@ -1,6 +1,6 @@
 <p style="display:flex">
-  <img src="https://github-readme-stats.vercel.app/api?username=glows777&show_icons=true&theme=dracula" style="width:49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=glows777&show_icons=true&locale=en&layout=compact&theme=dracula" style="width:49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=glows777&show_icons=true&theme=dracula&include_all_commits=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=glows777&show_icons=true&locale=en&layout=compact&theme=dracula" />
 </p>
 <h2 align="center">Technology Stack</h2>
 <p align="center">
@@ -18,15 +18,14 @@
 --- 
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=635&lines=Hello%2C+it's+Liam+Wang+here" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+it's+glows777+here" alt="Typing SVG" /></a>
 </p>
 
-- 👋 Hi, I’m @glows777，a university student from China.
-- 👀 I’m interested in Java & front end
-- 🌱 I’m currently learning frontend
-- 💞️ I’m looking to collaborate on ...,well, I'm just in the learning stage now.Perhaps When I was in the third year of university，I would collaborate on a full stack project.And my plan is find one or two friends inierested in programing so that we can get improved together.Wish you can contact me ,haha.
-- 📫 You can reach me by emial.My email is glows778@gmail.com,and my blog is https://glows777.github.io/, nice to meet you.
-- to be continue ...
+- 👋 Hi, I’m glows777，a university student from China.
+- 👀 I’m interested & working with front end
+- 💗 I'm currently studying WebRTC and Nest.js, if you want to find someone to communicate or studying together, here is my 
+contact information
+- 📫 You can reach me by emial glows778@gmail.com, and my blog is https://glows777.github.io/, nice to meet you.
 
 
 <!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=glows777&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
