@@ -24,7 +24,7 @@ style="width:49%" />
 
 - 👋 Hi, I’m glows777，a university student from China.
 - 👀 I’m interested & working with front end
-- 💗 I'm currently studying WebRTC and Nest.js, if you want to find someone to communicate or studying together, here is my 
+- 💗 I'm currently studying WebRTC and Nest.js, if you want to find someone to communicate or study together, here is my 
 contact information
 - 📫 You can reach me by emial glows778@gmail.com, and my blog is https://glows777.github.io/, nice to meet you.
 
