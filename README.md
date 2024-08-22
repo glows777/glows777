@@ -22,11 +22,11 @@ style="width:49%" />
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+it's+glows777+here" alt="Typing SVG" /></a>
 </p>
 
-- 👋 Hi, I’m glows777，a university student from China.
-- 👀 I’m interested & working with front end
-- 💗 I'm currently studying WebRTC and Nest.js, if you want to find someone to communicate or study together, here is my 
-contact information
-- 📫 You can reach me by emial glows778@gmail.com, and my blog is https://glows777.github.io/, nice to meet you.
+- 👋 Hi, I’m glows777，a front end developer from China.
+- 👀 I’m interested & working with front end.
+- 💗 I'm currently studying WebRTC and Nest.js, if you want to find someone to communicate or study together, below is my 
+contact information.
+- 📫 You can reach me by emial glows778@gmail.com, nice to meet you.
 
 
 <!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=glows777&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
